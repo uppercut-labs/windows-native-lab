@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+.local/
+TestResults/
+artifacts/
+evidence/raw/
+models/
+rawdata/
+*.user
+*.pfx
+*.p12
+.env
+.env.*
+local.config.json
